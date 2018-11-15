@@ -10,4 +10,7 @@ For the 2018 DC Offsite Lab
 - bullet
   - sub bullet
   
-*quick change by cecilia*
+### **Meow, meow**
+![](https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif)
+
+from Liz & Andre
